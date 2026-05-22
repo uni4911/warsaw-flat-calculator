@@ -1,5 +1,5 @@
 flats.csv
-catboost_model.cb
+catboost_model.cbm
 venv/
 env/
 .venv/
@@ -11,3 +11,4 @@ catboost_info/
 .ipynb_checkpoints/
 .DS_Store
 Thumbs.db
+otodom_debug.png
