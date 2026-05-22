@@ -1,0 +1,13 @@
+flats.csv
+catboost_model.cb
+venv/
+env/
+.venv/
+.env
+__pycache__/
+*.pyc
+*.pyo
+catboost_info/
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
